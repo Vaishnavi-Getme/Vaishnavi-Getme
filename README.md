@@ -1,7 +1,9 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="web developer illustration"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+I'm+Vaishnavi+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Coder+%E2%9C%A8" />
+  <h1 align="center">
+    Hi, I'm Vaishnavi ✨
+  </h1>
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=500&height=70&lines=;Frontend+Developer+%F0%9F%92%BB;BACKEND+Developer+%F0%9F%92%BB;Creative+Coder+%E2%9C%A8" />
 </div>
 
 <div align="center">
@@ -20,7 +22,7 @@
 
 <h2 align="center">About Me 👋</h2>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
 
   
   
@@ -45,26 +47,80 @@ Let's create something amazing together! Feel free to reach out for collaboratio
 
 ## Projects Showcase 🚀
 
+<div align="center">
 
-🎮 Games & Interactive
+### 🎮 Interactive Games & Apps
 
-* [**Move Character**](Small%20Projects/0006%20Move%20Character/index.html) - Interactive character control with smooth animations
-* [**Simon Says Game**](Small%20Projects/008%20Simon%20Says%20Game/index.html) - Test your memory with color sequences
-* [**Tic Tac Toe**](Small%20Projects/0001%20Tic-Tac-Toe/index.html) - Classic two-player strategy game
-* [**Stone Paper Scissors**](Small%20Projects/0002%20Stone-Paper-Scissor/index.html) - Play against AI with animated results
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Memory Game 🧠</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0006%20Memory%20Game/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Memory_Game-Test_Your_Memory-9C27B0?style=for-the-badge&logo=puzzle&logoColor=white"/>
+</a>
+<p>Test your memory and reflexes in this addictive pattern-matching game!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Tic Tac Toe 🎯</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0001%20Tic-Tac-Toe/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Tic_Tac_Toe-Strategic_Fun-2196F3?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<p>Classic strategy game with a modern twist!</p>
+</div>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+<h3 align="center">Stone Paper Scissors ✂️</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0002%20Stone-Paper-Scissor/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Rock_Paper_Scissors-Challenge_AI-FF4081?style=for-the-badge&logo=game-jolt&logoColor=white"/>
+</a>
+<p>Challenge the computer in this classic game!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Calculator 🔢</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0005%20Calculator/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Calculator-Smart_Computing-FF9800?style=for-the-badge&logo=wolfram&logoColor=white"/>
+</a>
+<p>A sleek and functional calculator app!</p>
+</div>
+</td>
+</tr>
+</table>
 
+### 🛠️ Utility Apps
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Weather App 🌤️</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0004%20Weather-API/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Weather_App-Real_Time_Updates-00BCD4?style=for-the-badge&logo=cloud&logoColor=white"/>
+</a>
+<p>Get real-time weather updates and forecasts!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Random Jokes 😄</h3>
+<div align="center">
+<a href="https://vaishnavi-getme.github.io/Mini-Projects/Small%20Projects/0003%20Random-rokes-API/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Joke_Generator-Daily_Smiles-FFC107?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+<p>Need a laugh? Get instant access to hilarious jokes!</p>
+</div>
+</td>
+</tr>
+</table>
 
-<summary>🛠️ Utility Apps</summary>
-
-* [**Currency Converter**](Small%20Projects/0005%20Currency-Convertor-API/index.html) - Real-time currency conversion
-* [**Weather App**](Small%20Projects/0004%20Weather-API/index.html) - Check weather conditions worldwide
-* [**Simple Todo**](Small%20Projects/007%20Simple%20To-Do/index.html) - Clean and efficient task manager
-* [**Random Jokes**](Small%20Projects/0003%20Random-rokes-API/index.html) - API-powered joke generator
-
-</details>
-
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
