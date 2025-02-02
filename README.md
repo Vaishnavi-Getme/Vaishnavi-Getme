@@ -2,8 +2,11 @@
   <h1 align="center">
     Hi, I'm Vaishnavi ✨
   </h1>
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=500&height=70&lines=;Frontend+Developer+%F0%9F%92%BB;BACKEND+Developer+%F0%9F%92%BB;Creative+Coder+%E2%9C%A8" />
+  <div align="center">
+    <img height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=500&height=70&lines=;Frontend+Developer+%F0%9F%92%BB;BACKEND+Developer+%F0%9F%92%BB;Creative+Coder+%E2%9C%A8" />
+  </div>
 </div>
 
 <div align="center">
